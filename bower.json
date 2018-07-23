@@ -1,0 +1,19 @@
+{
+  "name": "sportsblog",
+  "description": "Simple blog",
+  "main": "app.js",
+  "license": "ISC",
+  "homepage": "https://github.com/vivekr1/node-SportsBlog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
